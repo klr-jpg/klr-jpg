@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I am majoring in computer scinece
 ## My current coding knowlege is html, css and basic python
-## My hobbies are drawing , music and wathcing films 
+## My hobbies are drawing , music and watching films 
 <!--
 **klr-jpg/klr-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
